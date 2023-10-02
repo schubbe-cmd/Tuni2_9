@@ -1,0 +1,4 @@
+# filtering out .in, .out and .pyc files
+*.in
+*.out
+*.pyc
